@@ -4,7 +4,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d2329,50:0f3a35,100:1d9e75&height=180&section=header&text=Luiz%20Benedito&fontSize=42&fontColor=e0f4f0&fontAlignY=38&desc=Full%20Stack%20Developer%20%2F%2F%20Sistemas%20de%20Informação&descAlignY=60&descSize=15&descColor=5DCAA5&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=500&lines=%3E+Desenvolvedor+full+stack;%3E+Estudante+de+Sistemas+de+Informação+%2F%2F+UFV;%3E+Interesse+em+IA+e+Automação;%3E+Construindo+Soluções+com+Impacto+Real)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=500&lines=%3E+Desenvolvedor+full+stack;%3E+Estudante+de+Sistemas+de+Informação+%2F%2F+UFV;%3E+Interesse+em+IA+e+Automação;%3E+Construindo+Soluções+com+Impacto+Real)](https://git.io/typing-svg)
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-3a7a6a?style=flat-square&labelColor=0d2329)
 ![UFV](https://img.shields.io/badge/UFV-Sistemas%20de%20Informação-3a7a6a?style=flat-square&labelColor=0d2329)
